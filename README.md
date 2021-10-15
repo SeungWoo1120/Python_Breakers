@@ -9,9 +9,10 @@
 
 ● Git을 사용한 코드 분산 관리 스킬 제공
 
-● KPU(한국산업기술대) 주관 재능기부 프로젝트 <br/><br/>
+● KPU(한국산업기술대) 주관 재능기부 프로젝트 
 
-● 2021.07 ~ 2020.12
+● 2021.07 ~ 2020.12 <br/><br/>
+
 
 ● 👨‍🏫 : [Tutor](https://github.com/koptimizer) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 : [Me](https://github.com/SeungWoo1120) 
 
