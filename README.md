@@ -11,7 +11,7 @@
 
 ● KPU(한국산업기술대) 주관 재능기부 프로젝트 
 
-● 2021.07 ~ 2020.12 <br/><br/>
+● 2021.07 ~ 2021.12 <br/><br/>
 
 
 ● 👨‍🏫 : [Tutor](https://github.com/koptimizer) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 : [Me](https://github.com/SeungWoo1120) 
